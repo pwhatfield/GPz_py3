@@ -7,8 +7,6 @@ import matplotlib.pyplot as plt
 from scipy.stats import gaussian_kde
 import time
 
-print('sfgfs')
-
 ########### Model options ###############
 
 method = 'VC'               # select method, options = GL, VL, GD, VD, GC and VC [required]
