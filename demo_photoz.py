@@ -1,4 +1,4 @@
-# Update of original script by IS to change to python3 + a few small changes and updates, by NS,TM, AM and PH
+# Update of original script by IA to change to python3 + a few small changes and updates, by NS,TM, AM and PH
 
 
 import GPz
